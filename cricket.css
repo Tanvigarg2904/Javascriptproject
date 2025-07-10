@@ -1,0 +1,15 @@
+body{
+   
+   text-align: center;
+}
+
+.button{
+   width: 75px;
+   height:30px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: 100px;
+   margin: 10px;
+   border-radius: 5px;
+   border: 1px solid rgb(186, 183, 183);
+}
